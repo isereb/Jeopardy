@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+div.login form {
+    color: white;
+}
+
+div.fw.panel {
+    margin: auto;
+    width: 35%;
+    height: 151px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
