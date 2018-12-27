@@ -1,0 +1,28 @@
+div.fw.panel {
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    width: 55%;
+    height: 250px;
+}
+
+div#categories div#category {
+    text-align: right;
+}
+
+div#category.column {
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+div#question.column {
+    text-align: center;
+}
+
+div#question a {
+    width:100%;
+}

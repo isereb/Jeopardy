@@ -1,0 +1,75 @@
+[0]What is Battle Fury price?
+ - 4400
+
+[1]What is Octarine Core<img class="in text item" src="https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Octarine_Core_icon.png?version=e25f1503ef6c10f4232ef91991cf24a3" /> is made of?<br>
+ - <img class="item" src="https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Mystic_Staff_icon.png?version=b1c43d9eba3838fca9d7d0f3a8b4cfa1" /><img class="item" src="https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Soul_Booster_icon.png?version=2e729247c554a6c551a821d97ef9e7fa" />
+
+[2]What is the cooldown of Scythe of Vise?
+ - 22
+
+[3]What is the maximum distance you can blink using Blink Dagger?
+ - 1200
+
+[4]What is the manacost of using Force Staff?
+ - 100
+
+[5]What hero has this ability: Timewalk?
+ - Faceless Void
+
+[6]What is the maximum duration of Chaos Bolt?
+ - 4 sec
+
+[7]What is the manacost of Meat Hook?
+ - 140
+
+[8]How long Bloodlust lasts?
+ - 30
+
+[9]What is the cooldown of Ravage?
+ - 150
+
+[10]Who of the following have this attributes?<br>STR: 21 + 1.8<br>AGI: 23 + 3.15<br>INT: 15  + 1.4
+ - Storm Spirit
+
+[11]Who of the following have this attributes?<br>STR: 21 + 2.15<br>AGI: 23 + 3.15<br>INT: 15  + 1.4
+ - Phantom Assassin
+
+[12]Who of the following have this attributes?<br>STR: 22 + 3.3<br>AGI: 15 + 1.5<br>INT: 16  + 1.7
+ - Tidehunter
+
+[13]Who of the following have this attributes?<br>STR: 19 + 1.9<br>AGI: 22 + 2.8<br>INT: 17  + 1.8
+ - Venomancer
+
+[14]Who of the following have this attributes?<br>STR: 19 + 2.1<br>AGI: 24 + 2.8<br>INT: 19  + 2.1
+ - Gyrocopter
+
+[15]Which of these talents do NOT belong to Pugna?
+ - +90 Gold/Min
+
+[16]Which of these talents do NOT belong to Omniknight?
+ - +225 Health
+
+[17]Which of these talents belong to Kunkka?
+ - +25 Strength
+
+[18]Which of these talents do not exist in game?
+ - +25 Intelligence
+
+[19]What is the most impactful talent?
+ - +300 Aphotic Shield Health
+
+[20]When does the first night start?
+ - 4 min
+
+[21]How many melee and ranged creeps spawn in the first wave, for only one lane? Not counting the enemy creeps in that lane!
+ - 3 melee creeps, 1 ranged creep
+
+[22]How many neutral camps are in the Radiant jungle, not counting the Ancients? 
+ - 5; - 2 small camps, 2 medium camps and 1 large camp
+
+[23]Pick one set of the neutral creeps that can't spawn in the medium camp. (B - 04/10)
+ - Hellbear camp
+
+[24]At the start of the game, only Bounty runes can spawn
+ - true
+
